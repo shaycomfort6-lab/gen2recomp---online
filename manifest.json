@@ -1,0 +1,15 @@
+{
+  "id": "gen2online",
+  "name": "Gen2Online",
+  "version": "0.7.0-gen2",
+  "entry": "main.lua",
+  "author": "Gen1Online port for UNDERdecoded/Gen2Recomp",
+  "description": "Online layer for Gen2Recomp. Gen2 starts in PLAYERS_HOUSE2_F (New Bark bedroom).",
+  "category": "CONTENT",
+  "assets_transforms": "transforms.lua",
+  "permissions": [
+    "engine_internals",
+    "network"
+  ],
+  "github": "UNDERdecoded/Gen2Recomped"
+}

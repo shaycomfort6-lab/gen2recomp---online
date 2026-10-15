@@ -1,0 +1,14 @@
+[card]
+id = "gen2online"
+title = "Gen2Online"
+version = "0.2.0-gen2"
+author = "Gen1Online port for Gen2Recomp"
+category = "CONTENT"
+tags = ["multiplayer", "coop", "online", "pvp", "gts", "gen2", "johto"]
+description = "Johto online questline, New Bark start on Gold/Silver, Gen2-aware PVP, GTS, and full Gen1Online features on Red/Blue/Yellow."
+
+[features]
+- Gold/Silver online start forced to NEW_BARK_TOWN
+- Johto questline: Guide Mira, Sprout Tower Relay, Cherrygrove Signal
+- Gen2 PVP: heldItem/happiness packing + same-generation gate
+- Gen1 Kanto quests retained on Red/Blue/Yellow
